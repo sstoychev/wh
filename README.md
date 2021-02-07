@@ -1,0 +1,2 @@
+# wh
+Simplified warehouse management
